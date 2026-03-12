@@ -58,7 +58,7 @@ After restoring the environment, open the project in RStudio/Positron and run th
 Below is an example of a recommended project structure. Folder names can be adapted, but they should remain **clear and self-explanatory.**
 
 -   **R:** contains all R scripts used in the analysis pipeline. Scripts are organized by analysis stage (data import, cleaning, imputation, descriptive analysis, statistical analysis, and visualization)
--   
+  
 -   **input or data:** contains the data frames or files (images, files) that are input to the project.
 
     -   `raw/` original datasets as received from the source.
@@ -169,5 +169,9 @@ If applicable also include the title of the the paper.
 
 ## License
 Specify the license used for this repository.
+
+## Sources
+Here is a list of sources I found usefull to make keep a project tidy.
+-   [Productive R workflow](https://www.productive-r-workflow.com/)
 
       
