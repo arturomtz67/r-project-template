@@ -17,7 +17,7 @@ Add a short description explaining what the repository contains and what the pro
 
 ## Project Overview
 
-Wrtite and overviw of the project, for example:
+Wrtite and overview of the project, for example:
 The goal of this project is to investigate..... 
 
 Include:
